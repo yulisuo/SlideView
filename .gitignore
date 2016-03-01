@@ -1,6 +1,7 @@
 # Built application files
 *.apk
 *.ap_
+.tags*
 
 # Files for the Dalvik VM
 *.dex
@@ -37,7 +38,8 @@ proguard/
 .LSOverride
 
 # Icon must end with two \r
-Icon
+Icon
+
 
 # Thumbnails
 ._*
